@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Student Registration</title>
+  <style>
+    body {
+      background-color: #f0f8ff; /* light blue */
+      margin: 20px;
+      font-family: Arial, sans-serif;
+    }
+    h1 {
+      color: darkblue;
+      text-align: center;
+    }
+    .form-box {
+      background-color: white;
+      border: 2px solid #333;
+      margin: 20px auto;
+      padding: 20px;
+      width: 300px;
+    }
+    input, select {
+      margin: 5px 0;
+      padding: 5px;
+      width: 100%;
+      border: 1px solid gray;
+    }
+    table {
+      width: 80%;
+      margin: 20px auto;
+    }
+    table, th, td {
+      border: 1px solid black;
+    }
+    th {
+      background-color: #333;
+      color: white;
+    }
+    td {
+      text-align: center;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Student Registration</h1>
+
+  <!-- Form Section -->
+  <div class="form-box">
+    <form>
+      <label>Full Name:</label><br>
+      <input type="text" placeholder="Enter your name"><br>
+
+      <label>Email:</label><br>
+      <input type="email" placeholder="Enter your email"><br>
+
+      <label>Gender:</label><br>
+      <select>
+        <option>Male</option>
+        <option>Female</option>
+      </select><br><br>
+
+      <input type="submit" value="Register">
+    </form>
+  </div>
+
+  <!-- Table Section -->
+  <h2 style="text-align:center; color:darkgreen;">Registered Students</h2>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Email</th>
+      <th>Gender</th>
+    </tr>
+    <tr>
+      <td>John Doe</td>
+      <td>john@example.com</td>
+      <td>Male</td>
+    </tr>
+    <tr>
+      <td>Jane Smith</td>
+      <td>jane@example.com</td>
+      <td>Female</td>
+    </tr>
+  </table>
+
+</body>
+</html>

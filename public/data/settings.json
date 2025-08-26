@@ -1,0 +1,94 @@
+{
+    "developerSettings": {
+        "debugMode": false,
+        "fakeEmailRequests": false,
+        "stayOnThePreloaderScreen": false,
+        "version": "2.0.3"
+    },
+
+    "preloaderSettings": {
+        "enabled": true,
+        "title": " <strong>Portfolio</strong>",
+        "subtitle": "by Aguwa Favour .E",
+        "logoOffset": {
+            "right": 14,
+            "top": 2,
+            "bottom": 0
+        }
+    },
+
+    "templateSettings": {
+        "animatedCursorEnabled": true,
+        "backgroundStyle": "animated",
+        "defaultLanguageId": "en",
+        "defaultThemeId": "dark",
+        "fullscreenEnabled": true,
+        "showSpinnerOnThemeChange": false
+    },
+
+    "supportedLanguages": [
+        {
+            "name": "English",
+            "id": "en",
+            "flagUrl": "images/flags/en-us.png"
+        }
+    ],
+
+    "supportedThemes": [
+        {
+            "id": "dark",
+            "icon": "fa-solid fa-moon",
+            "dark": true,
+            "locales": {
+                "en": {"name": "Dark Mode"},
+                "es": {"name": "Modo Oscuro"},
+                "fr": {"name": "Mode Sombre"},
+                "ko": {"name": "다크 모드"}
+            }
+        },
+        {
+            "id": "light",
+            "icon": "fa-solid fa-sun",
+            "dark": false,
+            "locales": {
+                "en": {"name": "Light Mode"},
+                "es": {"name": "Modo Claro"},
+                "fr": {"name": "Mode Clair"},
+                "ko": {"name": "라이트 모드"}
+            }
+        }
+    ],
+
+    "consoleMessageForDevelopers": {
+        "title": "🚀 Welcome to Aguwa Favour .E's Portfolio!",
+        "items": [
+            {
+                "description": "This portfolio was built using React and customized by Aguwa Favour .E.",
+                "list": [],
+                "listStyle": "none"
+            },
+            {
+                "description": "Main tools and plugins used in this project:",
+                "list": [
+                    "Bootstrap 5: https://getbootstrap.com/",
+                    "Smooth Scrollbar: https://tinyurl.com/4yhm4n4a",
+                    "Swiper: https://swiperjs.com/",
+                    "EmailJS: https://www.emailjs.com/",
+                    "Font Awesome: https://fontawesome.com/",
+                    "PrimeIcons: https://primefaces.org/"
+                ],
+                "listStyle": "bulleted"
+            },
+            {
+                "description": "Developer Info:",
+                "list": [
+                    "GitHub: https://github.com/aguwa-favour", 
+                    "Portfolio: https://your-portfolio-link.com"
+                ],
+                "listStyle": "bulleted"
+            }
+        ]
+    },
+
+    "imagesToCache": []
+}

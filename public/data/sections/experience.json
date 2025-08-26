@@ -1,0 +1,120 @@
+{
+  "title": {
+    "locales": {
+      "en": {
+        "title_short": "EXPERIENCE",
+        "title_short_nav": "EXPERIENCE",
+        "title_long_prefix": "Summary of my",
+        "title_long": "{{Work}} Experience"
+      }
+    }
+  },
+
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "dateStart"
+      },
+      "items": [
+        {
+          "id": 1,
+          "img": "images/pictures/timeline-place-twist.png",
+          "faIcon": "fa-solid fa-code",
+          "faIconColors": { "bg": "#111", "fill": "#38B2AC" },
+          "dateStart": { "year": 2024, "month": 1 },
+          "dateEnd": { "now": true },
+          "locales": {
+            "en": {
+              "title": "{{Full-Stack}} Developer",
+              "province": "",
+              "country": "Remote",
+              "institution": "Twist (In Development, Not Yet Hosted)",
+              "text": "Currently building a modern real-time chat application with PHP, WebSockets, MySQL, and React.",
+              "list": [
+                "Secure login system",
+                "Group and 1-on-1 messaging",
+                "Media sharing features",
+                "Voice and video calling",
+                "Responsive UI with Tailwind CSS"
+              ],
+              "tags": ["PHP", "MySQL", "React", "WebSockets", "TailwindCSS"]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "img": "images/pictures/timeline-place-gateway.png",
+          "faIcon": "fa-solid fa-laptop-code",
+          "faIconColors": { "bg": "#222", "fill": "#0d6efd" },
+          "dateStart": { "year": 2023, "month": 1 },
+          "dateEnd": { "now": true },
+          "locales": {
+            "en": {
+              "title": "Web Developer",
+              "province": "",
+              "country": "Remote",
+              "institution": "Gateway Technology Company",
+              "text": "Developed and maintained responsive websites and web applications using PHP, Laravel, MySQL, React, and Tailwind CSS.",
+              "list": [
+                "Built scalable backend APIs",
+                "Integrated frontend frameworks for seamless UX",
+                "Collaborated with teams to deliver secure and efficient solutions"
+              ],
+              "tags": ["PHP", "Laravel", "MySQL", "React", "TailwindCSS"]
+            }
+          }
+        },
+        {
+          "id": 3,
+          "img": "images/pictures/timeline-place-trendsville.png",
+          "faIcon": "fa-solid fa-users",
+          "faIconColors": { "bg": "#333", "fill": "#E34F26" },
+          "dateStart": { "year": 2023, "month": 6 },
+          "dateEnd": { "year": 2023, "month": 12 },
+          "locales": {
+            "en": {
+              "title": "Web Developer (Team Project)",
+              "province": "",
+              "country": "Remote",
+              "institution": "Trendsville Productions (https://trendsvilleproductions.com/)",
+              "text": "Contributed as part of the development team in building the company’s official website.",
+              "list": [
+                "Developed backend features with PHP/MySQL",
+                "Ensured content updates and scalability",
+                "Implemented frontend with React and Tailwind CSS"
+              ],
+              "tags": ["PHP", "MySQL", "React", "TailwindCSS"]
+            }
+          }
+        },
+        {
+          "id": 4,
+          "img": "images/pictures/timeline-place-grandaward.png",
+          "faIcon": "fa-solid fa-award",
+          "faIconColors": { "bg": "#444", "fill": "#FFD700" },
+          "dateStart": { "year": 2022, "month": 1 },
+          "dateEnd": { "year": 2022, "month": 12 },
+          "locales": {
+            "en": {
+              "title": "Web Developer (Team Project)",
+              "province": "",
+              "country": "Remote",
+              "institution": "The Grand Award (https://thegrandaward.com/)",
+              "text": "Collaborated with a team of developers to build the official award platform.",
+              "list": [
+                "Implemented backend functionality with PHP/MySQL",
+                "Ensured secure data handling and submissions",
+                "Enhanced frontend design with React and Tailwind CSS"
+              ],
+              "tags": ["PHP", "MySQL", "React", "TailwindCSS"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

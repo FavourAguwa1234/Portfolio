@@ -1,0 +1,163 @@
+{
+  "title": {
+    "locales": {
+      "en": {
+        "title_short": "Portfolio",
+        "title_short_nav": "Portfolio",
+        "title_long_prefix": "Take a look at",
+        "title_long": "My {{Portfolio}}"
+      }
+    }
+  },
+
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticlePortfolio",
+      "locales": {
+        "en": {
+          "category_all": "All",
+          "category_web": "Web Apps",
+          "category_sites": "Websites"
+        }
+      },
+      "settings": {
+        "categorize_by": ["category_web", "category_sites"],
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "categoryId": "category_web",
+          "img": "images/pictures/portfolio-device-protection.png",
+          "preview": {
+            "links": [],
+            "screenshots": [],
+            "screenshotsAspectRatio": "",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "Device Protection",
+              "text": "A modern <b>cybersecurity web app</b> providing device insurance and protection services with a responsive UI.",
+              "tags": ["Cybersecurity", "Web App", "Insurance"]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "categoryId": "category_web",
+          "img": "images/pictures/portfolio-twist.png",
+          "preview": {
+            "links": [],
+            "screenshots": [],
+            "screenshotsAspectRatio": "",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "Twist (In Development)",
+              "text": "A <b>real-time chat web app</b> built with PHP, MySQL, React, and WebSockets.",
+              "tags": ["PHP", "MySQL", "React", "WebSockets", "Web App"]
+            }
+          }
+        },
+        {
+          "id": 3,
+          "categoryId": "category_sites",
+          "img": "public/images/pictures/timeline-place-trendsville.png",
+          "preview": {
+            "links": [
+              { "href": "https://trendsvilleproductions.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link" }
+            ],
+            "screenshots": [],
+            "screenshotsAspectRatio": "",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "Trendsville Productions",
+              "text": "An official company website showcasing <b>entertainment services</b>, built with PHP, MySQL, React, and Tailwind CSS.",
+              "tags": ["Website", "Entertainment", "React"]
+            }
+          }
+        },
+        {
+          "id": 4,
+          "categoryId": "category_sites",
+          "img": "public/images/pictures/timeline-place-grandaward.png",
+          "preview": {
+            "links": [
+              { "href": "https://thegrandaward.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link" }
+            ],
+            "screenshots": [],
+            "screenshotsAspectRatio": "",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "The Grand Award",
+              "text": "An award platform website built with <b>PHP</b>, featuring <b>secure submissions</b> and dynamic content management.",
+              "tags": ["Website", "Awards", "PHP"]
+            }
+          }
+        },
+        {
+          "id": 5,
+          "categoryId": "category_web",
+          "img": "images/pictures/portfolio-eduportal.png",
+          "preview": {
+            "links": [],
+            "screenshots": [],
+            "screenshotsAspectRatio": "",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "EduPortal",
+              "text": "An <b>educational management web app</b> for courses, students, and teachers, built with Laravel and MySQL.",
+              "tags": ["Education", "Laravel", "MySQL", "Web App"]
+            }
+          }
+        },
+        {
+          "id": 6,
+          "categoryId": "category_web",
+          "img": "images/pictures/portfolio-shopx.png",
+          "preview": {
+            "links": [],
+            "screenshots": [],
+            "screenshotsAspectRatio": "",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "ShopX",
+              "text": "An <b>e-commerce web app</b> with integrated shopping cart, product management, and secure checkout system.",
+              "tags": ["E-commerce", "React", "PHP", "Web App"]
+            }
+          }
+        },
+        {
+          "id": 7,
+          "categoryId": "category_web",
+          "img": "images/pictures/portfolio-healthtrack.png",
+          "preview": {
+            "links": [],
+            "screenshots": [],
+            "screenshotsAspectRatio": "",
+            "youtubeVideo": ""
+          },
+          "locales": {
+            "en": {
+              "title": "HealthTrack",
+              "text": "A <b>healthcare management web app</b> for hospitals and clinics, featuring patient tracking and secure records.",
+              "tags": ["Healthcare", "Flask", "MySQL", "Web App"]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}
