@@ -130,7 +130,7 @@
                     "id": 5,
                     "faIcon": "fa-brands fa-instagram",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@codingmark",
+                    "label": "@realfavourite01",
                     "link": {"href": "https://www.instagram.com/realfavourite01/", "tooltipString": "open_website"},
                     "locales": {
                         "en": {"title": "Instagram"},
@@ -141,7 +141,7 @@
                     "id": 6,
                     "faIcon": "fa-brands fa-tiktok",
                     "faIconColors": { "bg": "", "fill": "" },
-                    "label": "@markchoi",
+                    "label": "@realfavourite01",
                     "link": {"href": "https://www.tiktok.com/@realfavourite01?_t=ZS-8zECqV3EyPf&_r=1", "tooltipString": "open_website"},
                     "locales": {
                         "en": { "title": "TikTok" },
