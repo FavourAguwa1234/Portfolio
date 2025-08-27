@@ -14,12 +14,12 @@
             "localized_name_stylized": " [[Aguwa {{Favour .E}}]] ",
             "status_message_available_for_freelance": "Available for freelance!",
             "roles": [
-                "Backend Developer",
-"Full-Stack Developer",
-"Frontend Developer (React)",
-"DevOps Engineer"
+  "Backend Developer",
+  "Full-Stack Developer",
+  "Frontend Developer",
+  "Web Application Developer"
+],
 
-            ],
             "name_pronunciation_ipa": "/Favour Aguwa/",
             "name_pronunciation_audio_url": "audio/english-name-pronunciation.mp3"
         },
