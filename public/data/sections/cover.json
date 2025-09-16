@@ -117,14 +117,14 @@
   "items": [
     {
       "id": 1,
-      "label": "Chinwe Okafor",
+      "label": "Mrs Adeagbo Ayomipo",
       "link": {"href": "https://linkedin.com", "tooltipString": "open_website"},
       "img": "images/pictures/testimonial-person-female-1.png",
       "faIcon": "",
       "faIconColors": {"bg": "", "fill": ""},
       "locales": {
         "en": {
-          "title": "Head, Admin & Planning at [[Mrs Adeagbo Ayomipo]]",
+          "title": "Head, Admin & Planning at [[Leed impact Limited]]",
           "text": "Working with Aguwa Favour .E was a truly [[transformative experience]]. His outstanding programming skills and collaborative spirit not only elevated the quality of our project but also brought a renewed sense of motivation and purpose to us."
         },
         "es": {
