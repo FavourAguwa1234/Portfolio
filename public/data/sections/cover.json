@@ -124,7 +124,7 @@
       "faIconColors": {"bg": "", "fill": ""},
       "locales": {
         "en": {
-          "title": "CEO at [[SalesForce]]",
+          "title": "Head, Admin & Planning at [[Mrs Adeagbo Ayomipo]]",
           "text": "Working with Aguwa Favour .E was a truly [[transformative experience]]. His outstanding programming skills and collaborative spirit not only elevated the quality of our project but also brought a renewed sense of motivation and purpose to us."
         },
         "es": {
@@ -142,83 +142,84 @@
       }
     },
     {
-      "id": 2,
-      "label": "Emeka Adeyemi",
-      "link": {"href": "https://github.com", "tooltipString": "open_website"},
-      "img": "images/pictures/testimonial-person-male-1.png",
-      "faIcon": "",
-      "faIconColors": {"bg": "", "fill": ""},
-      "locales": {
-        "en": {
-          "title": "Lead Developer at [[GitHub]]",
-          "text": "Having Emeka on our team was an invaluable asset. His [[deep programming insights and mentorship]] not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
-        },
-        "es": {
-          "title": "Desarrollador Principal en [[GitHub]]",
-          "text": "Tener a Emeka fue un recurso invaluable. Sus [[profundos conocimientos y mentoría]] mejoraron nuestros proyectos y nos dieron confianza para afrontar cualquier desafío con creatividad."
-        },
-        "fr": {
-          "title": "Développeur Principal chez [[GitHub]]",
-          "text": "La présence de Emeka fut un atout inestimable. Ses [[connaissances en programmation et son mentorat]] ont renforcé nos projets et notre capacité à relever les défis avec assurance."
-        },
-        "ko": {
-          "title": "[[GitHub]] 수석 개발자",
-          "text": "Emeka는 소중한 자산이었습니다. 그의 [[깊은 프로그래밍 통찰력과 멘토링]]은 프로젝트를 향상시키고 도전을 자신감과 창의성으로 해결할 수 있게 해주었습니다."
-        }
-      }
+  "id": 2,
+  "label": "Mr Oluwaseun Adeagbo",
+  "link": {"href": "https://github.com", "tooltipString": "open_website"},
+  "img": "images/pictures/testimonial-person-male-1.png",
+  "faIcon": "",
+  "faIconColors": {"bg": "", "fill": ""},
+  "locales": {
+    "en": {
+      "title": "CEO of [[Device Protection]]",
+      "text": "Having Mr Oluwaseun Adeagbo on our team was an invaluable asset. His [[deep programming insights and mentorship]] not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
     },
-    {
-      "id": 3,
-      "label": "Amina Bello",
-      "link": {"href": "", "tooltipString": ""},
-      "img": "images/pictures/testimonial-person-female-2.png",
-      "faIcon": "",
-      "faIconColors": {"bg": "", "fill": ""},
-      "locales": {
-        "en": {
-          "title": "Managing Director at [[Dingga]]",
-          "text": "Collaborating with Amina was a true [[game changer]] for our entire development process. Her [[deep technical expertise]], creative problem-solving, and proactive mindset were absolutely invaluable."
-        },
-        "es": {
-          "title": "Directora General en [[Dingga]]",
-          "text": "Colaborar con Amina fue un verdadero [[punto de inflexión]]. Su [[gran experiencia técnica]], creatividad y mentalidad proactiva fueron absolutamente invaluables para nuestro equipo."
-        },
-        "fr": {
-          "title": "Directrice Générale chez [[Dingga]]",
-          "text": "Travailler avec Amina a été un vrai [[tournant]]. Son [[expertise technique approfondie]], sa créativité et sa proactivité ont été d’une valeur inestimable pour notre développement."
-        },
-        "ko": {
-          "title": "딩가 전무이사",
-          "text": "Amina와의 협업은 진정한 [[게임 체인저]]였습니다. 그녀의 [[깊이 있는 기술 전문성]], 창의적인 문제 해결력, 능동적인 태도는 매우 소중한 자산이었습니다."
-        }
-      }
+    "es": {
+      "title": "CEO de [[Device Protection]]",
+      "text": "Contar con Mr Oluwaseun Adeagbo en nuestro equipo fue un recurso invaluable. Sus [[profundos conocimientos de programación y mentoría]] mejoraron nuestros proyectos y nos dieron confianza para afrontar cualquier desafío con creatividad."
     },
-    {
-      "id": 4,
-      "label": "Tunde Balogun",
-      "link": {"href": "https://dribbble.com", "tooltipString": "open_website"},
-      "img": "images/pictures/testimonial-person-male-2.png",
-      "faIcon": "",
-      "faIconColors": {"bg": "", "fill": ""},
-      "locales": {
-        "en": {
-          "title": "Creative Director at [[Dribbble]]",
-          "text": "Aguwa Favour .E's [[attention to detail]] and his [[innovative thinking]] brought a fresh perspective to our whole design process! Simply amazing!"
-        },
-        "es": {
-          "title": "Director Creativo en [[Dribbble]]",
-          "text": "La [[atención al detalle]] y el [[pensamiento innovador]] de Aguwa Favour .E aportaron una perspectiva fresca a todo nuestro proceso de diseño. ¡Simplemente increíble! "
-        },
-        "fr": {
-          "title": "Directeur Créatif chez [[Dribbble]]",
-          "text": "L’[[attention aux détails]] et la [[pensée innovante]] de Aguwa Favour .E ont apporté une perspective nouvelle à tout notre processus de design ! Simplement incroyable !"
-        },
-        "ko": {
-          "title": "[[Dribbble]] 크리에이티브 디렉터",
-          "text": "Tunde의 [[세심한 배려]]와 [[혁신적인 사고]]가 전체 디자인 과정에 신선한 시각을 가져왔습니다! 정말 놀랍습니다!"
-        }
-      }
+    "fr": {
+      "title": "PDG de [[Device Protection]]",
+      "text": "La présence de Mr Oluwaseun Adeagbo fut un atout inestimable. Ses [[connaissances approfondies en programmation et son mentorat]] ont renforcé nos projets et notre capacité à relever les défis avec assurance et créativité."
+    },
+    "ko": {
+      "title": "[[Device Protection]] CEO",
+      "text": "Mr Oluwaseun Adeagbo는 소중한 자산이었습니다. 그의 [[깊은 프로그래밍 통찰력과 멘토링]]은 프로젝트를 향상시키고 도전을 자신감과 창의성으로 해결할 수 있게 해주었습니다."
     }
+  }
+},
+
+    {
+  "id": 3,
+  "label": "Chukwuma Ukpai",
+  "link": {"href": "", "tooltipString": ""},
+  "img": "images/pictures/testimonial-person-female-2.png",
+  "faIcon": "",
+  "faIconColors": {"bg": "", "fill": ""},
+  "locales": {
+    "en": {
+      "title": "Owner of [[SkenoX-shop]]",
+      "text": "Collaborating with Chukwuma was a true [[game changer]] for our entire development process. His [[deep technical expertise]], creative problem-solving, and proactive mindset were absolutely invaluable."
+    },
+    "es": {
+      "title": "Propietario de [[SkenoX-shop]]",
+      "text": "Colaborar con Chukwuma fue un verdadero [[punto de inflexión]]. Su [[gran experiencia técnica]], creatividad y mentalidad proactiva fueron absolutamente invaluables para nuestro equipo."
+    },
+    "fr": {
+      "title": "Propriétaire de [[SkenoX-shop]]",
+      "text": "Travailler avec Chukwuma a été un vrai [[tournant]]. Son [[expertise technique approfondie]], sa créativité et sa proactivité ont été d’une valeur inestimable pour notre développement."
+    },
+    "ko": {
+      "title": "[[SkenoX-shop]] 소유자",
+      "text": "Chukwuma와의 협업은 진정한 [[게임 체인저]]였습니다. 그의 [[깊이 있는 기술 전문성]], 창의적인 문제 해결력, 능동적인 태도는 매우 소중한 자산이었습니다."
+    }
+  }
+},
+   {
+  "id": 4,
+  "label": "Tunde Adebayo",
+  "link": {"href": "https://dribbble.com", "tooltipString": "open_website"},
+  "img": "images/pictures/testimonial-person-male-2.png",
+  "faIcon": "",
+  "faIconColors": {"bg": "", "fill": ""},
+  "locales": {
+    "en": {
+      "title": "Creative Director at [[Global Impact Agency]]",
+      "text": "Aguwa Favour .E's [[attention to detail]] and his [[innovative thinking]] brought a fresh perspective to our whole design process! Simply amazing!"
+    },
+    "es": {
+      "title": "Director Creativo en [[Global Impact Agency]]",
+      "text": "La [[atención al detalle]] y el [[pensamiento innovador]] de Aguwa Favour .E aportaron una perspectiva fresca a todo nuestro proceso de diseño. ¡Simplemente increíble!"
+    },
+    "fr": {
+      "title": "Directeur Créatif chez [[Global Impact Agency]]",
+      "text": "L’[[attention aux détails]] et la [[pensée innovante]] de Aguwa Favour .E ont apporté une perspective nouvelle à tout notre processus de design ! Simplement incroyable !"
+    },
+    "ko": {
+      "title": "[[Global Impact Agency]] 크리에이티브 디렉터",
+      "text": "Tunde의 [[세심한 배려]]와 [[혁신적인 사고]]가 전체 디자인 과정에 신선한 시각을 가져왔습니다! 정말 놀랍습니다!"
+    }
+  }
+}
   ]
 },
 
